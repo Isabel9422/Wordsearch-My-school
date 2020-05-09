@@ -14,6 +14,6 @@
     <script type="text/javascript" src="https://clic.xtec.cat/dist/jclic.js/jclic.min.js"></script>
   </head>
   <body style="margin:0">
-    <div class ="JClic" data-project="my_school.jclic"></div>
+    <div class ="JClic" data-project="my_school.jclic.js"></div>
   </body>
 </html>
